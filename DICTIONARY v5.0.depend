@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457240998 source:e:\doc\codeblocksprograms\dictionary v5.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
